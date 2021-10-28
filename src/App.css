@@ -6,9 +6,12 @@
  
 }
 .nav-tabs{
-  background-color: lightslategray;
+  background-color: rgb(89, 114, 139);
   
 }
 a{
   color: blue;
+}
+.offcanvas{
+  background-color: rgb(42, 149, 153);
 }
